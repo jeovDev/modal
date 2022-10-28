@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\modal\modal\bin\Debug\modal.exe.config
+C:\Users\Acer\Desktop\modal\modal\bin\Debug\modal.exe
+C:\Users\Acer\Desktop\modal\modal\bin\Debug\modal.pdb
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.Form1.resources
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.modalForm.resources
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.Properties.Resources.resources
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.exe
+C:\Users\Acer\Desktop\modal\modal\obj\Debug\modal.pdb
